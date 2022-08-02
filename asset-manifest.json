@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/merinter19.github.io/static/css/main.9482c550.css",
+    "main.js": "/merinter19.github.io/static/js/main.c317556f.js",
+    "index.html": "/merinter19.github.io/index.html",
+    "main.9482c550.css.map": "/merinter19.github.io/static/css/main.9482c550.css.map",
+    "main.c317556f.js.map": "/merinter19.github.io/static/js/main.c317556f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9482c550.css",
+    "static/js/main.c317556f.js"
+  ]
+}
